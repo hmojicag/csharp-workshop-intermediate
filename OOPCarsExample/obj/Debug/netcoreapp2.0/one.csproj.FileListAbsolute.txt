@@ -1,0 +1,10 @@
+/Users/hmojica/one/bin/Debug/netcoreapp2.0/one.deps.json
+/Users/hmojica/one/bin/Debug/netcoreapp2.0/one.runtimeconfig.json
+/Users/hmojica/one/bin/Debug/netcoreapp2.0/one.runtimeconfig.dev.json
+/Users/hmojica/one/bin/Debug/netcoreapp2.0/one.dll
+/Users/hmojica/one/bin/Debug/netcoreapp2.0/one.pdb
+/Users/hmojica/one/obj/Debug/netcoreapp2.0/one.csproj.CoreCompileInputs.cache
+/Users/hmojica/one/obj/Debug/netcoreapp2.0/one.AssemblyInfoInputs.cache
+/Users/hmojica/one/obj/Debug/netcoreapp2.0/one.AssemblyInfo.cs
+/Users/hmojica/one/obj/Debug/netcoreapp2.0/one.dll
+/Users/hmojica/one/obj/Debug/netcoreapp2.0/one.pdb

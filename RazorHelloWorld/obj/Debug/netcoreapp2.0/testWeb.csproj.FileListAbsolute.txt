@@ -1,0 +1,11 @@
+/Users/hmojica/testWeb/bin/Debug/netcoreapp2.0/testWeb.deps.json
+/Users/hmojica/testWeb/bin/Debug/netcoreapp2.0/testWeb.runtimeconfig.json
+/Users/hmojica/testWeb/bin/Debug/netcoreapp2.0/testWeb.runtimeconfig.dev.json
+/Users/hmojica/testWeb/bin/Debug/netcoreapp2.0/testWeb.dll
+/Users/hmojica/testWeb/bin/Debug/netcoreapp2.0/testWeb.pdb
+/Users/hmojica/testWeb/obj/Debug/netcoreapp2.0/testWeb.csproj.CoreCompileInputs.cache
+/Users/hmojica/testWeb/obj/Debug/netcoreapp2.0/testWeb.AssemblyInfoInputs.cache
+/Users/hmojica/testWeb/obj/Debug/netcoreapp2.0/testWeb.AssemblyInfo.cs
+/Users/hmojica/testWeb/obj/Debug/netcoreapp2.0/testWeb.dll
+/Users/hmojica/testWeb/obj/Debug/netcoreapp2.0/testWeb.pdb
+/Users/hmojica/testWeb/obj/Debug/netcoreapp2.0/testWeb.csprojResolveAssemblyReference.cache

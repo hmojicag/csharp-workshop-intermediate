@@ -1,0 +1,10 @@
+@page
+@model AgendaModel
+@{
+    ViewData["Title"] = "This is your Agenda";
+}
+
+
+@foreach(IRenderizable note in @Model.Notes) {
+    @Html.Raw(@note.HTMLRenderer())
+}

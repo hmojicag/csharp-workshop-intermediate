@@ -1,0 +1,10 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+</br></br></br>
+The Notes:</br>
+@foreach (var note in @Model.Notes) {
+    <p>@note.HTMLRedender();</p> 
+}

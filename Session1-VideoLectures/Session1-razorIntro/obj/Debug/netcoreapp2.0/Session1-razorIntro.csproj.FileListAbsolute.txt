@@ -1,0 +1,10 @@
+/Users/hmojica/session1/Session1-razorIntro/bin/Debug/netcoreapp2.0/Session1-razorIntro.deps.json
+/Users/hmojica/session1/Session1-razorIntro/bin/Debug/netcoreapp2.0/Session1-razorIntro.runtimeconfig.json
+/Users/hmojica/session1/Session1-razorIntro/bin/Debug/netcoreapp2.0/Session1-razorIntro.runtimeconfig.dev.json
+/Users/hmojica/session1/Session1-razorIntro/bin/Debug/netcoreapp2.0/Session1-razorIntro.dll
+/Users/hmojica/session1/Session1-razorIntro/bin/Debug/netcoreapp2.0/Session1-razorIntro.pdb
+/Users/hmojica/session1/Session1-razorIntro/obj/Debug/netcoreapp2.0/Session1-razorIntro.csproj.CoreCompileInputs.cache
+/Users/hmojica/session1/Session1-razorIntro/obj/Debug/netcoreapp2.0/Session1-razorIntro.AssemblyInfoInputs.cache
+/Users/hmojica/session1/Session1-razorIntro/obj/Debug/netcoreapp2.0/Session1-razorIntro.AssemblyInfo.cs
+/Users/hmojica/session1/Session1-razorIntro/obj/Debug/netcoreapp2.0/Session1-razorIntro.dll
+/Users/hmojica/session1/Session1-razorIntro/obj/Debug/netcoreapp2.0/Session1-razorIntro.pdb

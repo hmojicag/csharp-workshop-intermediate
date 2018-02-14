@@ -1,0 +1,10 @@
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/bin/Debug/netcoreapp2.0/csharp-workshop-intermediate.deps.json
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/bin/Debug/netcoreapp2.0/csharp-workshop-intermediate.runtimeconfig.json
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/bin/Debug/netcoreapp2.0/csharp-workshop-intermediate.runtimeconfig.dev.json
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/bin/Debug/netcoreapp2.0/csharp-workshop-intermediate.dll
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/bin/Debug/netcoreapp2.0/csharp-workshop-intermediate.pdb
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/obj/Debug/netcoreapp2.0/csharp-workshop-intermediate.csproj.CoreCompileInputs.cache
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/obj/Debug/netcoreapp2.0/csharp-workshop-intermediate.AssemblyInfoInputs.cache
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/obj/Debug/netcoreapp2.0/csharp-workshop-intermediate.AssemblyInfo.cs
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/obj/Debug/netcoreapp2.0/csharp-workshop-intermediate.dll
+/Users/hmojica/Google Drive/HazelSoft/Intermediate/csharp-workshop-intermediate/obj/Debug/netcoreapp2.0/csharp-workshop-intermediate.pdb

@@ -1,0 +1,10 @@
+/Users/hmojica/session1/bin/Debug/netcoreapp2.0/session1.deps.json
+/Users/hmojica/session1/bin/Debug/netcoreapp2.0/session1.runtimeconfig.json
+/Users/hmojica/session1/bin/Debug/netcoreapp2.0/session1.runtimeconfig.dev.json
+/Users/hmojica/session1/bin/Debug/netcoreapp2.0/session1.dll
+/Users/hmojica/session1/bin/Debug/netcoreapp2.0/session1.pdb
+/Users/hmojica/session1/obj/Debug/netcoreapp2.0/session1.csproj.CoreCompileInputs.cache
+/Users/hmojica/session1/obj/Debug/netcoreapp2.0/session1.AssemblyInfoInputs.cache
+/Users/hmojica/session1/obj/Debug/netcoreapp2.0/session1.AssemblyInfo.cs
+/Users/hmojica/session1/obj/Debug/netcoreapp2.0/session1.dll
+/Users/hmojica/session1/obj/Debug/netcoreapp2.0/session1.pdb
